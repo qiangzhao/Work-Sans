@@ -45,7 +45,7 @@ Please see BUILD.md for build instructions.
 ### [Print PDF Specimen](documentation/Work-Sans-Print-Specimen.pdf?raw=true).
 
 ## Suggestion, Comments, Contributions
-If you spot any errors or have any suggestions for improvements you can fork this project, create an [Issue](../../issues) or email me at <a href="mailto:wweeiihhuuaanngg@gmail.com">wweeiihhuuaanngg@gmail.com</a>.
+If you spot any errors or have any suggestions for improvements you can fork this project, create an [Issue](../../issues).
 
 ## Notes
 The project started in June 2014 and the brief was to have a [minimum viable product](http://en.wikipedia.org/wiki/Minimum_viable_product) (alpha release with 9 weights) by December 2014. Work Sans was first available on Google fonts in July 2015.
