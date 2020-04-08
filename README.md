@@ -1,7 +1,7 @@
 # Work Sans
 ### [Use at Google Fonts](https://www.google.com/fonts/specimen/Work+Sans)
 
-**Work Sans was made in part on the lands of the Wurundjeri and Boon Wurrung people of the Kulin nations. I pay my respect to their elders, past, present and future. Sovereignty has never been ceded.**
+**Work Sans was made in part on the stolen lands of the Wurundjeri and Boon Wurrung people of the Kulin nations. I pay my respect to their elders, past, present and future. Sovereignty has never been ceded.**
 
 If you have used Work Sans please consider supporting and donating to the following list of Indigenous organisations and funds:
 
